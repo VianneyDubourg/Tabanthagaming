@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: floralwhite;
+}
+.imageindex {
+    height: 100%;
+    width: 100%;
+    
+
+}
+
+.taban {
+    
+    display: flex;
+    justify-content: center;
+}
+
+p {
+  font-family: 'Goldman', cursive;
+  display: flex;
+  justify-content: center;
+  font-size: 30px;
+  color: black;
+}
+
+h5 {
+    margin-left: 120px;
+}
+
+.footer {
+    margin-top: 300px;
+    color: floralwhite;
+    
+    
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.classement {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.imagepouissance {
+    height: 120px;
+}
+
+.discord {
+    height: 150px;
+}
+
+
+
